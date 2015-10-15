@@ -21,3 +21,9 @@ system("mail -s \"Future Technology Domain Migration\" -r \"noreply\@example.com
 ```
 
 In this example the body of the message would be from a static file (here referenced as 'notify.txt'.
+
+# running notify
+
+```
+perl notify.pl
+```
